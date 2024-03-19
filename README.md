@@ -1,4 +1,4 @@
-# Pagina Web Login ALTEX #
+# Pagina Web Login ALTEX mock #
 
 O pagina web de login simpla, de proba.
 
