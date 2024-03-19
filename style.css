@@ -16,7 +16,7 @@ body {
 
 img {
     position:absolute;
-    padding-bottom: 500px;
+    padding-bottom: 555px;
 
 }
 
@@ -26,6 +26,7 @@ img {
     color: aliceblue;
     border-radius: 10px;
     padding: 20px 40px;
+    box-shadow: 1px 1px 10px rgb(211, 76, 76);
 }
 
 .wrapper h1 {
@@ -94,7 +95,7 @@ img {
     outline: none;
     border-radius: 40px;
     box-shadow: 10 10 101 black;
-    color: red;
+    color: rgb(150, 22, 22);
     font-weight: 600;
 }
 
@@ -115,5 +116,20 @@ button:hover {
 }
 
 .register-link a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    position: absolute;
+    margin-top: 95vh;
+}
+
+footer a {
+    text-decoration: none;
+    color: rgb(172, 0, 0);
+    font-size: 15px;
+}
+
+footer a:hover {
     text-decoration: underline;
 }
