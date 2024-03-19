@@ -1,3 +1,5 @@
-# Pagina Web Login
-O pagina web de login, de proba.
-![Screenshot_8](https://github.com/chrisSucksAtCoding/Pagina-web-login/assets/89873995/27def131-0b9f-4354-8f32-142d9387b373)
+# Pagina Web Login ALTEX #
+
+O pagina web de login simpla, de proba.
+
+![altex revizie](https://github.com/chrisSucksAtCoding/Pagina-web-login/assets/89873995/dfe483cd-7c53-4277-ba8b-e8116560a14c)
